@@ -1,0 +1,7 @@
+﻿  Control.cpp
+c:\users\саня\source\repos\controlna\controlna\control.cpp(43): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\саня\source\repos\controlna\controlna\control.cpp(48): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\саня\source\repos\controlna\controlna\control.cpp(50): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\саня\source\repos\controlna\controlna\control.cpp(61): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\саня\source\repos\controlna\controlna\control.cpp(65): warning C4018: <: несоответствие типов со знаком и без знака
+  Controlna.vcxproj -> C:\Users\Саня\source\repos\Controlna\Debug\Controlna.exe
